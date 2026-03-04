@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="watermark_Mon_26082024_182418.png/alive-new.jpg?raw=true" alt="ZANTA-MD Logo" width="200" height="200"/>
+  <img src="https://github.com/Akashkavindu/ZANTA_MD/blob/main/images/alive-new.jpg?raw=true/alive-new.jpg?raw=true" alt="ZANTA-MD Logo" width="200" height="200"/>
   <h1>🌹 CYBER ROOT</h1>
   <h3>The ethical hacking center</h3>
 </div>
